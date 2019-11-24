@@ -1,0 +1,61 @@
+/** container header **/
+.headRow
+{
+    background-color: #393f4d
+}
+
+/** container body **/
+.divBodyColor
+{
+    background-color: #f6f5f3
+}
+
+.navBarContainer
+{
+    background-color: #f6f5f3;
+}
+
+/** index.html **/
+
+.list-item-navbar {
+    color: #777777 !important;
+}
+
+.border-under-nav {
+    border-top: 2px solid ;
+}
+
+.h3-header {
+    color: #f4f8f8
+}
+
+/* Sticky Footer Classes */
+.footer-all {
+    border-top: 4px solid #9e363a;
+    background-color: #393f4d;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.page-content {
+    flex: 1 0 auto;
+
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
+
+
+.background-image
+{
+    background-image: url("../img/ocean.jpg");
+}
+
+.border-textbody {
+    border: 2px solid black;
+}
